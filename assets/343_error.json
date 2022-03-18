@@ -1,0 +1,32 @@
+{
+	"message": "read ECONNRESET",
+	"name": "Error",
+	"stack": "Error: read ECONNRESET\n    at TLSWrap.onStreamRead (internal/stream_base_commons.js:209:20)",
+	"config": {
+		"transitional": {
+			"silentJSONParsing": true,
+			"forcedJSONParsing": true,
+			"clarifyTimeoutError": false
+		},
+		"transformRequest": [
+			null
+		],
+		"transformResponse": [
+			null
+		],
+		"timeout": 0,
+		"xsrfCookieName": "XSRF-TOKEN",
+		"xsrfHeaderName": "X-XSRF-TOKEN",
+		"maxContentLength": -1,
+		"maxBodyLength": -1,
+		"headers": {
+			"Accept": "application/json",
+			"X-API-KEY": "c1e6a3580d3f42eeac519e3d3d4ee0f1",
+			"User-Agent": "axios/0.26.1"
+		},
+		"method": "get",
+		"url": "https://api.opensea.io/api/v1/asset/0xc5ba5f657ee81c9f0eddee0e75b39deac45db41f/344/?include_orders=true"
+	},
+	"code": "ECONNRESET",
+	"status": null
+}

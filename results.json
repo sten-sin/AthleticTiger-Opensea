@@ -1,0 +1,330 @@
+{
+  "id": 284999281,
+  "num_sales": 0,
+  "background_color": null,
+  "image_url": "https://lh3.googleusercontent.com/BWfvhd80LZsm5dLpspVYzOmdC8jgC9fQUNjCw7VenIu1XFdhKWtWiKH7TteJ4IYMOJPgNQUDN0Sarz-q29n7YFPgCpFbdX75hY3zaA",
+  "image_preview_url": "https://lh3.googleusercontent.com/BWfvhd80LZsm5dLpspVYzOmdC8jgC9fQUNjCw7VenIu1XFdhKWtWiKH7TteJ4IYMOJPgNQUDN0Sarz-q29n7YFPgCpFbdX75hY3zaA=s250",
+  "image_thumbnail_url": "https://lh3.googleusercontent.com/BWfvhd80LZsm5dLpspVYzOmdC8jgC9fQUNjCw7VenIu1XFdhKWtWiKH7TteJ4IYMOJPgNQUDN0Sarz-q29n7YFPgCpFbdX75hY3zaA=s128",
+  "image_original_url": "ipfs://QmcGPLZVRwBNWvp9pLe7X4F8H2TDdNysPi99BbJf9Rg7R1/982.png",
+  "animation_url": null,
+  "animation_original_url": null,
+  "name": "Athletic Tiger #981",
+  "description": "NFT collection of 7000 tigers on the ETH blockchain",
+  "external_link": null,
+  "asset_contract": {
+    "address": "0xc5ba5f657ee81c9f0eddee0e75b39deac45db41f",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2022-02-09T08:43:40.244096",
+    "name": "Athletic Tiger",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 82234015,
+    "schema_name": "ERC721",
+    "symbol": "AT",
+    "total_supply": "0",
+    "description": "PRESALE: TBD\nMINT PRICE: 0.075 ETH\n\nThe Athletic Tiger is a collection of 7000 Tigers where each NFT gives you access to a full membership to an ever-growing community and awesome utilities & privileges.\n\nHolding at least 1 tigers give you the full access to Metaclub, the first nft social media for entrepreneurs, artists and investors wanting to expend their network and grow their community. Visit https://www.athletictiger.com/ for more details.",
+    "external_link": "https://www.athletictiger.com/",
+    "image_url": "https://lh3.googleusercontent.com/GYDUvWkPUNMfGOb4QUgb_siQLYyNdP0mdRdOJv-QGkSDpH6CwBfngxBgXKO2SqiUTwZybRELVoSDG26dlHV6FRwTUCoy_euwI7uy=s120",
+    "default_to_fiat": false,
+    "dev_buyer_fee_basis_points": 0,
+    "dev_seller_fee_basis_points": 400,
+    "only_proxied_transfers": false,
+    "opensea_buyer_fee_basis_points": 0,
+    "opensea_seller_fee_basis_points": 250,
+    "buyer_fee_basis_points": 0,
+    "seller_fee_basis_points": 650,
+    "payout_address": "0x44f0ef7a8f62d927876deca75934e4a1d9999b38"
+  },
+  "permalink": "https://opensea.io/assets/0xc5ba5f657ee81c9f0eddee0e75b39deac45db41f/981",
+  "collection": {
+    "payment_tokens": [
+      {
+        "id": 4645681,
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "image_url": "https://storage.opensea.io/files/accae6b6fb3888cbff27a013729c22dc.svg",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "eth_price": 1,
+        "usd_price": 2766.22
+      },
+      {
+        "id": 13689077,
+        "symbol": "ETH",
+        "address": "0x0000000000000000000000000000000000000000",
+        "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+        "name": "Ether",
+        "decimals": 18,
+        "eth_price": 1,
+        "usd_price": 2766.22
+      }
+    ],
+    "primary_asset_contracts": [
+      {
+        "address": "0xc5ba5f657ee81c9f0eddee0e75b39deac45db41f",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-02-09T08:43:40.244096",
+        "name": "Athletic Tiger",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 82234015,
+        "schema_name": "ERC721",
+        "symbol": "AT",
+        "total_supply": "0",
+        "description": "PRESALE: TBD\nMINT PRICE: 0.075 ETH\n\nThe Athletic Tiger is a collection of 7000 Tigers where each NFT gives you access to a full membership to an ever-growing community and awesome utilities & privileges.\n\nHolding at least 1 tigers give you the full access to Metaclub, the first nft social media for entrepreneurs, artists and investors wanting to expend their network and grow their community. Visit https://www.athletictiger.com/ for more details.",
+        "external_link": "https://www.athletictiger.com/",
+        "image_url": "https://lh3.googleusercontent.com/GYDUvWkPUNMfGOb4QUgb_siQLYyNdP0mdRdOJv-QGkSDpH6CwBfngxBgXKO2SqiUTwZybRELVoSDG26dlHV6FRwTUCoy_euwI7uy=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 400,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 650,
+        "payout_address": "0x44f0ef7a8f62d927876deca75934e4a1d9999b38"
+      }
+    ],
+    "traits": {},
+    "stats": {
+      "one_day_volume": 0,
+      "one_day_change": -1,
+      "one_day_sales": 0,
+      "one_day_average_price": 0,
+      "seven_day_volume": 2.22,
+      "seven_day_change": 7.072727272727273,
+      "seven_day_sales": 16,
+      "seven_day_average_price": 0.13875,
+      "thirty_day_volume": 6.562000000000001,
+      "thirty_day_change": 2.5470270270270268,
+      "thirty_day_sales": 55,
+      "thirty_day_average_price": 0.11930909090909093,
+      "total_volume": 8.411999999999997,
+      "total_sales": 77,
+      "total_supply": 1127,
+      "count": 1127,
+      "num_owners": 465,
+      "average_price": 0.10924675324675322,
+      "num_reports": 3,
+      "market_cap": 156.37125,
+      "floor_price": 0
+    },
+    "banner_image_url": "https://lh3.googleusercontent.com/S4E446euHfHMetLroqOx979p4kUjm2I6wIs605M4fk2DgJ82ihsdgWKen5eaqjdsJwO-VQ7FbJb5p3N_WOxA_hfaOReXIdvha6lHTA=s2500",
+    "chat_url": null,
+    "created_date": "2022-02-09T20:15:35.624867",
+    "default_to_fiat": false,
+    "description": "PRESALE: TBD\nMINT PRICE: 0.075 ETH\n\nThe Athletic Tiger is a collection of 7000 Tigers where each NFT gives you access to a full membership to an ever-growing community and awesome utilities & privileges.\n\nHolding at least 1 tigers give you the full access to Metaclub, the first nft social media for entrepreneurs, artists and investors wanting to expend their network and grow their community. Visit https://www.athletictiger.com/ for more details.",
+    "dev_buyer_fee_basis_points": "0",
+    "dev_seller_fee_basis_points": "400",
+    "discord_url": "https://discord.gg/jZ5kH3Mc",
+    "display_data": {
+      "card_display_style": "contain"
+    },
+    "external_url": "https://www.athletictiger.com/",
+    "featured": false,
+    "featured_image_url": "https://lh3.googleusercontent.com/S4E446euHfHMetLroqOx979p4kUjm2I6wIs605M4fk2DgJ82ihsdgWKen5eaqjdsJwO-VQ7FbJb5p3N_WOxA_hfaOReXIdvha6lHTA=s300",
+    "hidden": false,
+    "safelist_request_status": "not_requested",
+    "image_url": "https://lh3.googleusercontent.com/GYDUvWkPUNMfGOb4QUgb_siQLYyNdP0mdRdOJv-QGkSDpH6CwBfngxBgXKO2SqiUTwZybRELVoSDG26dlHV6FRwTUCoy_euwI7uy=s120",
+    "is_subject_to_whitelist": false,
+    "large_image_url": "https://lh3.googleusercontent.com/S4E446euHfHMetLroqOx979p4kUjm2I6wIs605M4fk2DgJ82ihsdgWKen5eaqjdsJwO-VQ7FbJb5p3N_WOxA_hfaOReXIdvha6lHTA=s300",
+    "medium_username": null,
+    "name": "Athletic Tiger",
+    "only_proxied_transfers": false,
+    "opensea_buyer_fee_basis_points": "0",
+    "opensea_seller_fee_basis_points": "250",
+    "payout_address": "0x44f0ef7a8f62d927876deca75934e4a1d9999b38",
+    "require_email": false,
+    "short_description": null,
+    "slug": "athletictiger",
+    "telegram_url": null,
+    "twitter_username": null,
+    "instagram_username": "athletictigerclub/",
+    "wiki_url": null,
+    "is_nsfw": false
+  },
+  "decimals": 0,
+  "token_metadata": "https://opensea.mypinata.cloud/ipfs/QmYX18skVBmjtZNPmn1rVk3J1eFmTKU9Xe8Q8GBHuR3LEV/981.json",
+  "is_nsfw": false,
+  "owner": {
+    "user": {
+      "username": "rareinternetice"
+    },
+    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/11.png",
+    "address": "0x99b496f495315d80d0808f90746eea1eaa0af580",
+    "config": ""
+  },
+  "sell_orders": null,
+  "creator": {
+    "user": null,
+    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/23.png",
+    "address": "0x75a91dac567decf30718dc475cd82196d287d947",
+    "config": ""
+  },
+  "traits": [
+    {
+      "trait_type": "necklaces 1",
+      "value": "None",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 1036,
+      "order": null
+    },
+    {
+      "trait_type": "hat",
+      "value": "Mascot",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 20,
+      "order": null
+    },
+    {
+      "trait_type": "earrings 1",
+      "value": "None",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 893,
+      "order": null
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Surprised",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 107,
+      "order": null
+    },
+    {
+      "trait_type": "background",
+      "value": "Ocean",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 87,
+      "order": null
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Sad",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 97,
+      "order": null
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Bung Bung",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 49,
+      "order": null
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Silverr",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 71,
+      "order": null
+    }
+  ],
+  "last_sale": null,
+  "top_bid": null,
+  "listing_date": null,
+  "is_presale": false,
+  "transfer_fee_payment_token": null,
+  "transfer_fee": null,
+  "related_assets": [],
+  "orders": [
+    {
+      "created_date": "2022-03-13T22:00:21.695388",
+      "closing_date": "2022-03-20T21:57:14",
+      "closing_extendable": false,
+      "expiration_time": 1647813434,
+      "listing_time": 1647208598,
+      "order_hash": "0xbef901cda7204bcce4edc4e628cea65e78bcccf856c05ec239f869045e86c748",
+      "metadata": {
+        "asset": {
+          "id": "981",
+          "address": "0xc5ba5f657ee81c9f0eddee0e75b39deac45db41f"
+        },
+        "schema": "ERC721"
+      },
+      "exchange": "0x7f268357a8c2552623316e2562d90e642bb538e5",
+      "maker": {
+        "user": 20644310,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/11.png",
+        "address": "0x99b496f495315d80d0808f90746eea1eaa0af580",
+        "config": ""
+      },
+      "taker": {
+        "user": 1766,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+        "address": "0x0000000000000000000000000000000000000000",
+        "config": ""
+      },
+      "current_price": "150000000000000000.0000000000",
+      "current_bounty": "1500000000000000",
+      "bounty_multiple": "0.01",
+      "maker_relayer_fee": "650",
+      "taker_relayer_fee": "0",
+      "maker_protocol_fee": "0",
+      "taker_protocol_fee": "0",
+      "maker_referrer_fee": "0",
+      "fee_recipient": {
+        "user": 3585,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+        "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "config": "verified"
+      },
+      "fee_method": 1,
+      "side": 1,
+      "sale_kind": 0,
+      "target": "0xbaf2127b49fc93cbca6269fade0f7f31df4c88a7",
+      "how_to_call": 1,
+      "calldata": "0xfb16a59500000000000000000000000099b496f495315d80d0808f90746eea1eaa0af5800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000c5ba5f657ee81c9f0eddee0e75b39deac45db41f00000000000000000000000000000000000000000000000000000000000003d5000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000c00000000000000000000000000000000000000000000000000000000000000000",
+      "replacement_pattern": "0x000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "static_target": "0x0000000000000000000000000000000000000000",
+      "static_extradata": "0x",
+      "payment_token": "0x0000000000000000000000000000000000000000",
+      "payment_token_contract": {
+        "symbol": "ETH",
+        "address": "0x0000000000000000000000000000000000000000",
+        "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+        "name": "Ether",
+        "decimals": 18,
+        "eth_price": "1.000000000000000",
+        "usd_price": "2772.750000000000000000"
+      },
+      "base_price": "150000000000000000",
+      "extra": "0",
+      "quantity": "1",
+      "salt": "97737140387566016861438200923022374594405235563992148250210911557084906329525",
+      "v": 28,
+      "r": "0x4cb84b916f8c7e1d463f21c3cbdb50c0d25e091e380639c357864d18f64ecdc1",
+      "s": "0x12bf29391786c03854ddef218c7d8d48109dc2d12e1bbefb9eade546d3b2043b",
+      "approved_on_chain": false,
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "prefixed_hash": "0xb69435cd4bfea4806f552683563362d7ed12be386f8c82d22b8365cfe76de110"
+    }
+  ],
+  "auctions": [],
+  "supports_wyvern": true,
+  "top_ownerships": [
+    {
+      "owner": {
+        "user": {
+          "username": "rareinternetice"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/11.png",
+        "address": "0x99b496f495315d80d0808f90746eea1eaa0af580",
+        "config": ""
+      },
+      "quantity": "1"
+    }
+  ],
+  "ownership": null,
+  "highest_buyer_commitment": null,
+  "token_id": "981"
+}
